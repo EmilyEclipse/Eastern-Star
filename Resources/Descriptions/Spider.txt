@@ -1,0 +1,3 @@
+A spider the size of a large dog. It looks angry.
+Its attacks are BITE and VENOM SPIT.
+VENOM SPIT deals damage for 2 turns.
